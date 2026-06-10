@@ -122,7 +122,7 @@ function Portfolio() {
               GitHub
             </a>
             <a
-              href="https://linkedin.com/in/muhammadsami"
+              href="https://www.linkedin.com/in/sami-khalil-29may/"
               target="_blank"
               rel="noreferrer"
               className="text-muted-foreground transition-colors hover:text-foreground"
@@ -233,7 +233,7 @@ function Portfolio() {
           <ul className="space-y-4 text-sm">
             <ContactRow icon={<Mail className="h-4 w-4" />} label="Email" value="muhammadsamif23@nutech.edu.pk" href="mailto:muhammadsamif23@nutech.edu.pk" />
             <ContactRow icon={<Phone className="h-4 w-4" />} label="Phone" value="+92 341 1840755" href="tel:+923411840755" />
-            <ContactRow icon={<Linkedin className="h-4 w-4" />} label="LinkedIn" value="linkedin.com/in/muhammadsami" href="https://linkedin.com/in/muhammadsami" />
+            <ContactRow icon={<Linkedin className="h-4 w-4" />} label="LinkedIn" value="linkedin.com/in/sami-khalil-29may" href="https://www.linkedin.com/in/sami-khalil-29may/" />
             <ContactRow icon={<Github className="h-4 w-4" />} label="GitHub" value="github.com/samikhalil662" href="https://github.com/samikhalil662" />
             <ContactRow icon={<MapPin className="h-4 w-4" />} label="Based in" value="Islamabad, Pakistan" />
           </ul>
