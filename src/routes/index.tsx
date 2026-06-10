@@ -99,7 +99,7 @@ const skillGroups = [
 const stats = [
   { value: "10+", label: "Projects Shipped" },
   { value: "5+", label: "AI Domains" },
-  { value: "2026", label: "Graduation" },
+  { value: "2027", label: "Graduation" },
 ];
 
 function Portfolio() {
