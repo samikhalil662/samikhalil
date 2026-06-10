@@ -9,6 +9,7 @@ const queryClient = new QueryClient();
 
 const router = createRouter({
   routeTree,
+  basepath: "/samikhalil/",
   context: { queryClient },
   scrollRestoration: true,
   defaultPreloadStaleTime: 0,
