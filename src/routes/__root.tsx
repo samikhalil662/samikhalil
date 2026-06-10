@@ -85,6 +85,10 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary" },
       { name: "twitter:site", content: "@Lovable" },
+      { name: "twitter:title", content: "Muhammad Sami — AI Developer" },
+      { name: "twitter:description", content: "Portfolio of Muhammad Sami, AI developer building ML models, LLM agents, and automation." },
+      { property: "og:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/4fdbc0e8-2f2b-4239-978d-359be812da91/id-preview-36bd4854--378bd452-0df2-42d0-a9da-16a723fedffc.lovable.app-1781073598039.png" },
+      { name: "twitter:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/4fdbc0e8-2f2b-4239-978d-359be812da91/id-preview-36bd4854--378bd452-0df2-42d0-a9da-16a723fedffc.lovable.app-1781073598039.png" },
     ],
     links: [
       { rel: "stylesheet", href: appCss },
